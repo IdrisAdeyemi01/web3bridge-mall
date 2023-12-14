@@ -4,18 +4,18 @@ const Lib = () => {
   const [attires, setAttires] = useState([
     {
       id: 1,
-      name: "Culotte dress",
+      name: "Ankara Dress",
       likes: 2,
     },
 
     {
       id: 2,
-      name: "Babydoll dress",
+      name: "Aso Ofi",
       likes: 4,
     },
     {
       id: 3,
-      name: "Wrap around dress",
+      name: "Corporate wear",
       likes: 0,
     },
     {
@@ -25,7 +25,7 @@ const Lib = () => {
     },
     {
       id: 5,
-      name: "Bubble dress",
+      name: "Up and Down",
       likes: 0,
     },
     {
@@ -50,7 +50,7 @@ const Lib = () => {
     },
     {
       id: 10,
-      name: "Gele dress",
+      name: "Female Wears",
       likes: 0,
     },
   ]);
@@ -82,7 +82,7 @@ const Lib = () => {
 
   return (
     <div className="background">
-      <h1>Fash Vix Marketplace</h1>
+      <h1>Web3Bridge Mall</h1>
       <div>
         <h2>Fashion Attires</h2>
         <div className="attire-list">
